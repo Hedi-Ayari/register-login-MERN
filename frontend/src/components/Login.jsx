@@ -51,7 +51,7 @@ const Login = () => {
   return (
     <>
       <div className={styles.formContainer}>
-        <h3>Welcome fi 5hadmni</h3>
+        <h3>Welcome </h3>
         <h2>Login!</h2>
         <form onSubmit={(e) => onSubmit(e)}>
           <div className={styles.inputContainer}>
